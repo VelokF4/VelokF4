@@ -1,4 +1,4 @@
-## Hey que tal!
+## Hey que tal
 
 <!--
 
@@ -6,11 +6,9 @@
 -->
 Estoy actualmente aprendiendo a programar en Python, Java y Cursando un TSU en informatica.
 
-mi objetivo es tener un ingreso salarial asquerosamente grande como programador
-(probablemente eso no sea mas que una fantasia).
+mi objetivo hacerme asquerosamente rico como programador
+(ojala).
 
-pero tambien programo por pasion y aunque no logre tener un (ingreso salarial asquerosamente grande),
-deseo poder ser realmente un programador
-
+pero tambien programo por pasion (depende del dia)
 
 - 📫 Puedes comunicarte conmigo via Email como: santiagomartinez2234@outlook.com 
