@@ -4,7 +4,7 @@
 
 
 -->
-Estoy actualmente aprendiendo a programar en Python y Cursando un TSU en informatica.
+Estoy actualmente aprendiendo a programar en Python, Java y Cursando un TSU en informatica.
 
 mi objetivo es tener un ingreso salarial asquerosamente grande como programador
 (probablemente eso no sea mas que una fantasia).
